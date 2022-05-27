@@ -37,10 +37,7 @@
 <font face="Bahnschrift" color="brown">
 <li><h2>Como hacer Salmon al horno facil, rápido y con un toque especial</li></h2> 
 
-Dificultad: Fácil
-Tiemp 15 minutos
-Elaboración 5minutos
-Cocción10 minutos
+Dificultad: Fácil, Tiempo 15 minutos, Elaboracion 5 minutos, Coccion 10 minutos
 
 
 
