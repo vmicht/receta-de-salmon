@@ -35,7 +35,16 @@
 <li>Sal</li>
 </font>
 <font face="Bahnschrift" color="brown">
-<li><h2>Como hacer Salmon al horno facil, rápido y con un toque especial</li></h2>    
+<li><h2>Como hacer Salmon al horno facil, rápido y con un toque especial</li></h2> 
+
+Dificultad: Fácil
+Tiemp 15 minutos
+Elaboración 5minutos
+Cocción10 minutos
+
+
+
+
 <li><h2>Instrucciones</li></h2>
 </font>
 <font face="Bahnschrift" color="Black">
