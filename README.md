@@ -3,10 +3,16 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-</head> 
+  </head> 
+  
+  
+  <body bgcolor="#ffbba8">
+<font color="fa8072" face="Courier New">
 
-<body bgcolor="#FFCC99"
-
+  
+  
+  
+  
 <center>
 <font face="Goudy Stout" color="black">
   <h1><titles>RECETA DE SALMON AL HORNO</titles></h1>
